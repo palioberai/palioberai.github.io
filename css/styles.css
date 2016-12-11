@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
 
 h1, h2, h3 {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Verdana', sans-serif;
 	COLOR: #3C250A;
 }
 
 p, li {
 
-font-family: 'Open Sans', sans-serif;
+font-family: 'Verdana', sans-serif;
 	color: #7B756C;
 
 }
