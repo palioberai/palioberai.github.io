@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	COLOR: #3C250A;
+}
+
+p, li {
+
+font-family: 'Open Sans', sans-serif;
+	color: #7B756C;
+
+}
+
+header, footer {
+		background-color: #595959;
+	text-align: center;
+	padding: 50px 30px; 
+ }
+
+.main-content {
+		background-color: #808f85;
+		padding : 10px 0;
+		border-top: 2px solid #cfd11a;
+}
+
+.main-content ul {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+.main-content ul li {
+	padding: 10px;
+	text-align: center;
+}
+
